@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar-nav .nav-link{
+    font-weight: 500;
+    font-size: 15px;
+    color: #282552 !important;
+}
